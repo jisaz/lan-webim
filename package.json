@@ -1,0 +1,23 @@
+{
+  "name": "lan-webim",
+  "version": "1.0.0",
+  "description": "基于腾讯云通信进行的二次封装",
+  "main": "src/lan-webim.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jisaz/lan-webim.git"
+  },
+  "keywords": [
+    "im",
+    "webim"
+  ],
+  "author": "jisaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jisaz/lan-webim/issues"
+  },
+  "homepage": "https://github.com/jisaz/lan-webim#readme"
+}
